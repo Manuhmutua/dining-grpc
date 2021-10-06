@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Manuhmutua/learning-grpc/api"
+	"github.com/Manuhmutua/dining-grpc/api"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
